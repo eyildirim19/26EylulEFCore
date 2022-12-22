@@ -21,6 +21,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6_EfCore_Configuration_Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_EfCore_Configuration_FluentApi", "7_EfCore_Configuration_FluentApi\7_EfCore_Configuration_FluentApi.csproj", "{118BA496-746F-497C-B4FB-6BFC885E5E6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_EfCore_Migration", "8_EfCore_Migration\8_EfCore_Migration.csproj", "{F8A8E2F3-711D-498B-8B8B-02F3469D4803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_EfCore_Migration", "9_EfCore_Migration\9_EfCore_Migration.csproj", "{A4C4B0F2-D218-4D06-9235-D9A1850E3C25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{118BA496-746F-497C-B4FB-6BFC885E5E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{118BA496-746F-497C-B4FB-6BFC885E5E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{118BA496-746F-497C-B4FB-6BFC885E5E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A8E2F3-711D-498B-8B8B-02F3469D4803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A8E2F3-711D-498B-8B8B-02F3469D4803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A8E2F3-711D-498B-8B8B-02F3469D4803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A8E2F3-711D-498B-8B8B-02F3469D4803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C4B0F2-D218-4D06-9235-D9A1850E3C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C4B0F2-D218-4D06-9235-D9A1850E3C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C4B0F2-D218-4D06-9235-D9A1850E3C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C4B0F2-D218-4D06-9235-D9A1850E3C25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
